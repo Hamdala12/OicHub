@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+ 
+.carousel-item{
+  height: 50vh;
+  min-height: 5px;
+  background: no-repeat scroll center scroll;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
